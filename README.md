@@ -1,10 +1,7 @@
----
-
 # SerkerkOS
 
 **`Desenvolvedor Full-Stack | Técnico em Redes de Computadores | Estudante de ADS`**
 
----
 
 Olá! Meu nome é **Kauan Bastos Mendes**. Sou criador de conteúdo no YouTube, onde mantenho o canal "[SerkerkOS](https://www.youtube.com/@SerkerkOS)", dedicado a compartilhar meus aprendizados e a orientar pessoas interessadas em iniciar ou evoluir na área de Tecnologia da Informação.
 

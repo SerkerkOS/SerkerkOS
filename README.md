@@ -22,8 +22,6 @@ Tenho grande paixão por tecnologia e busco constantemente aprender e criar solu
          <img alt="Total de estrelas" title="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/stars/SerkerkOS?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"/></a>
    </p>
 
----
-
 ### Linguagens e tecnologias
 
 <img
@@ -56,13 +54,6 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 /> <img
 align="left"
-alt="Node.js"
-title="Node.js"
-width="30px"
-style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
-/> <img
-align="left"
 alt="React"
 title="React"
 width="30px"
@@ -70,14 +61,82 @@ style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 /> <img
 align="left"
-alt="Linux"
-title="Linux"
+alt="Node.js"
+title="Node.js"
 width="30px"
 style="padding-right: 10px;"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/> <img
+align="left"
+alt="Express"
+title="Express.js"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" 
+/> <img
+align="left"
+alt="Sequelize"
+title="Sequelize"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sequelize/sequelize-original.svg" 
+/> <img
+align="left"
+alt="SQL"
+title="SQL"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/> <img
+align="left"
+alt="JWT"
+title="JWT"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" 
+/> <img
+align="left"
+alt="Spring Boot"
+title="Spring Boot"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/> <img
+align="left"
+alt="Jest"
+title="Jest"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" 
+/> <img
+align="left"
+alt="Cypress"
+title="Cypress"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
+/> <img
+align="left"
+alt="Swagger"
+title="Swagger"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" 
+/> <img
+align="left"
+alt="Jira"
+title="Jira"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" 
+/> <img
+align="left"
+alt="Trello"
+title="Trello"
+width="30px"
+style="padding-right: 10px;"
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-plain.svg" 
 />
 
-<br/>
-
----
+<br/><br/>
 
